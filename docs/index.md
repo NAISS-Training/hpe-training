@@ -25,7 +25,7 @@ The precise location will be announced closer to the event.
 9:00 - 17:30 each day. 
 
 ## Topics
-The course covers the following topics (preliminary):
+The course covers the following topics (preliminary agenda):
 
 - CPU part of Dardel and Arrhenius Architecture, programming and execution environment
 - Overview of compilers and parallel programming Models
