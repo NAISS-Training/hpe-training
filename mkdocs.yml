@@ -1,5 +1,5 @@
-site_name: HPE training 
-repo_url: https://github.com/NAISS-Training/hpe-training
+site_name: HPE training on Efficient use of the CPU nodes on Dardel and Arrhenius
+repo_url: https://github.com/NAISS-Training/Using-CPU-nodes
 edit_uri: blob/main/docs/
 
 site_description: Material and information for the HPC training event
