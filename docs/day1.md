@@ -6,5 +6,5 @@
 
 | Start | Duration | Item | 
 | ----- | -------- | ---- | 
-| 09:00 | 10       | Welcome, introduc'on to the course. <br> Course organizaion | 
+| 09:00 | 10       | Welcome, <br>introduction to the course. <br> Course organizaion | 
 
