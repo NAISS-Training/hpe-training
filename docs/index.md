@@ -2,7 +2,7 @@
 
 These pages contain information about the HPE training event on 27-28 January 2026, given under NAISS and PDC. 
 
-![KTH logo](./images/KTH_logo_RGB_bla.png){: width="300px"} ![NAISS logo](./images/naiss.png)
+![KTH logo](./images/KTH_logo_RGB_bla.png){: width="200px"} ![NAISS logo](./images/naiss.png){: width="200px"}
 
 ## Location 
 
