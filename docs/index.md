@@ -1,16 +1,18 @@
 # HPE training 
 
+## Efficient use of the CPU nodes on Dardel and Arrhenius 
+
 These pages contain information about the HPE training event on 27-28 January 2026. 
 
-## Location 
+### Location 
 
 KTH 
 
-## Schedule 
+### Schedule 
 
-## Comments and questions 
+### Comments and questions 
 
-## Registration 
+### Registration 
 
 You can find the registraion here: 
 
