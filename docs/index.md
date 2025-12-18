@@ -2,17 +2,15 @@
 
 *This course is a collaboration between NAISS and PDC. The lectures will be provided by Hewlett Packard Enterprise (HPE)*
 
+![KTH logo](./images/KTH_logo_RGB_bla.png){: width="200px"} ![NAISS logo](./images/naiss.png){: width="200px"}
+
 This training course will discuss the efficient use of the CPU nodes on NAISS' Dardel and future NAISS' Arrhenius system.  
 
 Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems utilise hardware provided by Hewlett Packard Enterprise (HPE).  The course will delivered by consultants from HPE.  
 
-This cours is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.
+This course is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.
 
 
-
-These pages contain information about the HPE training event on 27-28 January 2026, given under NAISS and PDC. 
-
-![KTH logo](./images/KTH_logo_RGB_bla.png){: width="200px"} ![NAISS logo](./images/naiss.png){: width="200px"}
 
 ## Location 
 
