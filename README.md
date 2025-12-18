@@ -12,5 +12,5 @@ Kungliga Tekniska Högskolan (KTH)
 
 9:00 - 17:30 each day. 
 
-![KTH logo](../images/KTH_logo_bla.png) ![NAISS logo](../naiss.png)
+![KTH logo](images/KTH_logo_bla.png) ![NAISS logo](images/naiss.png)
 
