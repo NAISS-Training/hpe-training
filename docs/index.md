@@ -38,7 +38,11 @@ The course covers the following topics (preliminary agenda):
 - Debugging at Scale
 - Optimizing large scale I/O
 
-There will be time in the schedule for hand on exercises on NAISS' Dardel system.
+There will be time in the schedule for hand on exercises on NAISS' Dardel system.  
+
+The performance and debugging tools mentioned above are available on Dardel. Their availability on Arrhenius is still under investigation.
+The schedule of the course will be adopted to focus on tools that will be available on both Arrhenius and Dardel.
+
 
 ## Comments and questions 
 
