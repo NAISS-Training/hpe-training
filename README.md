@@ -4,13 +4,12 @@ These pages contain information about the HPE training event on 27-28 January 20
 
 ## Location
 
-Kungliga Tekniska Högskolan (KTH)
+Kungliga Tekniska Högskolan (KTH), Stockholm. 
 
 ## Time and Date
 
-27-28 January 2026
-
-9:00 - 17:30 each day. 
+- 27-28 January 2026
+- 9:00 - 17:30 each day. 
 
 ## Registration 
 
