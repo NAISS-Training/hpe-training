@@ -4,7 +4,7 @@
 
 ![KTH logo](./images/KTH_logo_RGB_bla.png){: width="200px"} ![NAISS logo](./images/naiss.png){: width="200px"}
 
-This training course will discuss the efficient use of the CPU nodes on NAISS' Dardel and future NAISS' Arrhenius system.  
+This training course will discuss the efficient use of the CPU nodes on NAISS' Dardel and NAISS' forthcoming Arrhenius system.  
 
 Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius which is currently being installed will be NAISS' forthcoming powerful supercomputer that is build together with EuroHPC.   Both systems utilise hardware provided by Hewlett Packard Enterprise (HPE).  The course will delivered by consultants from HPE.  
 
