@@ -46,7 +46,7 @@ Comments and questions on these training events should be sent to NAISS using <a
 
 ## Registration 
 
-Please fill in the registration form (handled by the Lund University Branch of NAISS): https://survey.mailing.lu.se/Survey/62634  
+Please fill in the registration form (handled by the Lund University Branch of NAISS): [https://survey.mailing.lu.se/Survey/62634](https://survey.mailing.lu.se/Survey/62634)
 
 Registration is set to close on 15th January 2026.  Acceptance on the course will be announced no later than the 19th January 2026. 
 
