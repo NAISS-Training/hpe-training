@@ -24,8 +24,10 @@ The precise location will be announced closer to the event.
 
 ## Schedule 
 
-- 27-28 January 2026. 
-- 9:00 - 17:30 each day. 
+- 27th January 2026: 9:00 - 17:30
+- 28th January 2026: 9:00 - 16:00
+
+**Note:** *The time on the second day has been amended from earlier notifications!*
 
 ## Topics
 The course covers the following topics (preliminary agenda):
