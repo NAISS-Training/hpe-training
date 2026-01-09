@@ -12,8 +12,9 @@ Dardel is NAISS' current flagship service hosted at PDC in KTH.   Arrhenius whic
 
 This course is expected to be of particular interest for research groups developing Scientific software to be deployed on either Dardel or Arrhenius or both.  
 
-This course is aimed at users with experience in HPC, this is not a beginners course.   Our NAISS introduction week might be more suitable for new users of HPC: [https://naiss-training.github.io/NAISS-intro-week/](https://naiss-training.github.io/NAISS-intro-week/).   This course will not discuss any GPU usage. It is aimed at CPU usage only.   We plan to offer a course on GPU usage at a later stage.
+This course is aimed at users with experience in HPC.  It is not a beginners course.   Our NAISS introduction week might be more suitable for new users of HPC: [https://naiss-training.github.io/NAISS-intro-week/](https://naiss-training.github.io/NAISS-intro-week/).   
 
+This course will not discuss any GPU usage.  It is aimed at CPU usage only.   We plan to offer a course on GPU usage at a later stage.
 
 
 ## Location 
